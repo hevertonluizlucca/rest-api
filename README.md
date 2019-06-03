@@ -1,4 +1,4 @@
-# Desenvolvido com JDK8, Spring Boot, Swagger, JWT e H2.
+# Desenvolvido com JDK8, Spring Boot, Swagger e H2.
 * Faça o download do repositório.
 * Importe como projeto maven na ide de sua preferência.
 * Dependências estão descritas no `pom.xml`
@@ -7,7 +7,7 @@
 * A aplicação pode ser executada a partir da classe `br.com.hevertonluizlucca.apichallenge.ApiChallengeApplication`
 * A aplicação esta configurada para utilizar banco de dados H2 utilizando o sistema de data initializer.
 
-A aplicação foi desenvolvida utilizando o Spring Boot 2.1.5, JDK8, Swagger, Maven, JWT e H2. Estas escolhas foram feitas por serem tecnologias atuais e em constante uso pela comunidade, o swagger auxilia na construção de aplicações rest.
+A aplicação foi desenvolvida utilizando o Spring Boot 2.1.5, JDK8, Swagger, Maven e H2. Estas escolhas foram feitas por serem tecnologias atuais e em constante uso pela comunidade, o swagger auxilia na construção de aplicações rest.
 
 Auto-Avaliação sobre o desenvolvimento da aplicação.
 
