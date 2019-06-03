@@ -1,0 +1,5 @@
+insert into user(id,login,senha,nome,administrador) values (1, 'convidado', 'manager', 'Usuário convidado', 0);
+insert into user(id,login,senha,nome,administrador) values (2, 'admin', 'suporte', 'Gestor', 1);
+insert into pais(id,nome,sigla,gentilico) values (3, 'Brasil', 'BR', 'Brasileiro');
+insert into pais(id,nome,sigla,gentilico) values (1, 'Argentina', 'AR', 'Argentino');
+insert into pais(id,nome,sigla,gentilico) values (2, 'Alemanha', 'AL', 'Alemão');
